@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vermayash
 - 👀 I’m interested in developing Full-stack web applications
-- 🌱 I’m currently learning Angular, Node.js, ExpressJS, and MongoDB, with React
+- 🌱 I’m currently learning Angular, Node.js, ExpressJS, MongoDB, and React.
 - 💞️ I’m looking to collaborate on Web applications
 - 📫 How to reach me- drop me an email on yash.cverma@gmail.com
 
